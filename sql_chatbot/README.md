@@ -132,6 +132,3 @@ streamlit run app.py
 - **pandas**: For data manipulation and display
 - **python-dotenv**: For environment variable management
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details. 
